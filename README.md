@@ -1,2 +1,1 @@
-# myHTR
- Vietnamese handwritten text regconition
+Vietnamese Handwritten rogconition
