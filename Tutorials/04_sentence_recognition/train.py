@@ -80,6 +80,7 @@ train_data_provider.augmentors = [
     RandomBrightness(), 
     RandomErodeDilate(),
     RandomSharpen(),
+    RandomRotate(angle=10), 
     ]
 
 # Creating TensorFlow model architecture
